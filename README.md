@@ -28,4 +28,4 @@ With a given advertising data set we need to predict the sales revenue based on 
 
 9.Evaluating performance of algorithm.
 
-# Formulas used:
+
