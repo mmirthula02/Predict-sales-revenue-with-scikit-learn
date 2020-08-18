@@ -21,7 +21,8 @@ With a given advertising data set we need to predict the sales revenue based on 
 
 5.The best feature is selected after predicting the relationship between the sales revenue and the expenditure on the various advertisment channels.
 
-6.Creating a simple linear regression model using scikit learn. With one predictor as X and response as y , a train_test_split module was used for sliting the data sets into train and test sets.
+6.Creating a simple linear regression model using scikit learn ,With one predictor as X and response as y , a train_test_split module was used for sliting the data sets into train and test sets.
+
 7.Intercept and coeffecients of the best fit line is predicted.
 
 8.Determing y_pred and Plotting the best fit line.
