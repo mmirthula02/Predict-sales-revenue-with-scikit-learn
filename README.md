@@ -1,4 +1,4 @@
-# Predict sales revenue with scikit learn
+# Predicting sales revenue with scikit learn
 With a given advertising data set we need to predict the sales revenue based on advertising spent through mediums such as TV, radio, and newspaper.
 
 # Libraries used:
