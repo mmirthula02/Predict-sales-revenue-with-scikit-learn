@@ -10,7 +10,7 @@ With a given advertising data set we need to predict the sales revenue based on 
 
 4.Seaborn for plotting data.
 
-# Task evolved:
+# Tasks evolved:
 1.Datas were loaded and libraries where imported.
 
 2.The data's were cleaned and pre-processed for further analysis removing unwanted columns.
