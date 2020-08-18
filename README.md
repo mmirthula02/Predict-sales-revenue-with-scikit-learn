@@ -2,10 +2,13 @@
 With a given advertising data set we need to predict the sales revenue based on advertising spent through mediums such as TV, radio, and newspaper.
 
 # Libraries used:
-Scikit learn for calculating linear regression model
-Pandas for data management
-Numpy for mathematical calculations
-Seaborn for plotting data
+1.Scikit learn for calculating linear regression model.
+
+2.Pandas for data management.
+
+3.Numpy for mathematical calculations.
+
+4.Seaborn for plotting data.
 
 # Task evolved:
 1.Datas were loaded and libraries where imported.
