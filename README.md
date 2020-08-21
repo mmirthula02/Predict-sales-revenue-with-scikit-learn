@@ -42,8 +42,8 @@ With a given advertising data set we need to predict the sales revenue based on 
 
 5.Data split into training and test data. Two models where built one excluding the newspaper feature and the other model including all the predictors.Model fit and accuracy are determined for the two models using R^2 and RMSE and verify which model satisfy the condition :Maximum R^2 and minimum RMSE for best fit model.
 
-6.To vizualize the residual error and prediction error Yellowbricks a scikit learn API is used.
+6.To vizualize the residual error and prediction error Yellowbricks a scikit learn API was used.
 
-7.From the previous analysis of the residuals, we concluded that we need to incorporate interaction terms due to the non-additive relationship between the features and target.  Interaction effects is used to include a third feature by taking the product of the other two features in our model. This gives a better fit model with a minimum RMSE value.
+7.From the previous analysis of the residuals, we concluded that we need to incorporate interaction terms due to the non-additive relationship between the features and target.  Interaction effects is used to include a third feature by taking the product of the other two features in our model. This effect gives a better fit model with a minimum RMSE  value.
 
 
