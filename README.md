@@ -1,4 +1,6 @@
 # Predicting sales revenue with scikit learn
+To build both simple linear regression model and multiple linear regression model.
+
 With a given advertising data set we need to predict the sales revenue based on advertising spent through mediums such as TV, radio, and newspaper.
 
 # Libraries used:
@@ -10,7 +12,7 @@ With a given advertising data set we need to predict the sales revenue based on 
 
 4.Seaborn for plotting data.
 
-# Tasks evolved:
+# Tasks evolved to build a simple linear regression model:
 1.Datas were loaded and libraries where imported.
 
 2.The data's were cleaned and pre-processed for further analysis removing unwanted columns.
@@ -28,5 +30,20 @@ With a given advertising data set we need to predict the sales revenue based on 
 8.Determing y_pred and Plotting the best fit line.
 
 9.Evaluating performance of algorithm.
+
+# Tasks evoloved to build a multiple linear regression model:
+1.Datas were loaded and libraries where imported.
+
+2.Vizualise the data for analysis and for model building.Seaborn library was used to create scatter plots for each of the three features and the target. This is done to make qualitative observations about the linear or non-linear relationships between the features and the target.
+
+3.To calculate  multiple regression coefficient estimate.
+
+4.Feature selection : To determine if all the features helps to determine target. R^2 score was used for feature selection.
+
+5.Data split into training and test data. Two models where built one excluding the newspaper feature and the other model including all the predictors.Model fit and accuracy are determined for the two models using R^2 and RMSE and verify which model satisfy the condition :Maximum R^2 and minimum RMSE for best fit model.
+
+6.To vizualize the residual error and prediction error Yellowbricks a scikit learn API is used.
+
+7.From the previous analysis of the residuals, we concluded that we need to incorporate interaction terms due to the non-additive relationship between the features and target.  Interaction effects is used to include a third feature by taking the product of the other two features in our model. This gives a better fit model with a minimum RMSE value.
 
 
