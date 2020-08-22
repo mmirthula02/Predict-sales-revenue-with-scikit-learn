@@ -31,7 +31,7 @@ With a given advertising data set we need to predict the sales revenue based on 
 
 9.Evaluating performance of algorithm.
 
-# Tasks evoloved to build a multiple linear regression model:
+# Tasks evolved to build a multiple linear regression model:
 1.Datas were loaded and libraries where imported.
 
 2.Vizualise the data for analysis and for model building.Seaborn library was used to create scatter plots for each of the three features and the target. This is done to make qualitative observations about the linear or non-linear relationships between the features and the target.
